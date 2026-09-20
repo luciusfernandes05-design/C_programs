@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "C:\\MinGW\\bin"
+                ]
+            },
+            "compilerPath": "C:\\MinGW\\bin\\gcc"
+        }
+    ],
+    "version": 4
+}
